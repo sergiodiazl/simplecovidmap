@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer>
       <Container>
-       <a href="sergiodl.com"><p> { new Date().getFullYear() },Sergio Diaz Leguizamon </p></a> 
+       <a href="https://www.sergiodl.com"><p> { new Date().getFullYear() },Sergio Diaz Leguizamon </p></a> 
       </Container>
     </footer>
   );
