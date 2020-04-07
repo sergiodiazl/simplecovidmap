@@ -9,11 +9,11 @@ import Map from 'components/Map';
 
 
 const LOCATION = {
-  lat: 0,
+  lat: 10,
   lng: 0
 };
 const CENTER = [LOCATION.lat, LOCATION.lng];
-const DEFAULT_ZOOM = 1;
+const DEFAULT_ZOOM = 2;
 const ZOOM = 10;
 
 const timeToOpenPopupAfterZoom = 4000;
