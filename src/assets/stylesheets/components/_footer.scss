@@ -4,12 +4,16 @@ footer {
   height: 2em;
   line-height: 2em;
   color: $white;
+  background-color: $gatsby-purple;
   text-align: center;
-  background-color: $blue-grey-700;
 
   p {
     font-size: 1em;
     margin: 0;
   }
-
+  a,a:visited{
+    text-decoration: none;
+    color: $white;
+  }
+ 
 }

@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer>
       <Container>
-        <p>&copy; { new Date().getFullYear() }, My Gatsby Site</p>
+       <a href="sergiodl.com"><p> { new Date().getFullYear() },Sergio Diaz Leguizamon </p></a> 
       </Container>
     </footer>
   );
