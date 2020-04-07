@@ -125,7 +125,7 @@ geoJsonLayers.addTo(map)
   return (
     <Layout pageName="home">
       <Helmet>
-        <title>Home Page</title>
+        <title>Covid19  simple info map</title>
       </Helmet>
 
       <Map {...mapSettings}/>
